@@ -1,0 +1,11 @@
+
+
+sale token  
+token rate   100000 
+raise min    100000000000000000
+raise max    30000000000000000000
+softcap	     400000000000000000000
+hardcap		1000000000000000000000
+presale start
+presale end
+
